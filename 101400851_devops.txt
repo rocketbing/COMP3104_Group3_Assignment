@@ -1,1 +1,2 @@
 In this course, we will learn procedures, protocols and best practices that a DevOps enginner brings to a workplace environment to increase productivity
+We have 2 assignments, 10 quizzes, 10 lab exercises, 1 mid-term exam, 1 final exam
