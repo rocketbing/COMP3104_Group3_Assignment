@@ -1,1 +1,8 @@
 Learning Devops is very important since the DevOps model is an organization's answer to increasing operational efficiency, accelerating delivery, and innovating products
+
+The Five Primary Goals of DevOps
+- Enhancing the frequency and pace with which software is released
+- Improving the quality and dependability of software products
+- Cutting the costs and hazards of software development
+- Increasing client satisfaction and loyalty
+- Achieving a market competitive advantage
