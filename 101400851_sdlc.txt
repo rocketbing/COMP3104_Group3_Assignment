@@ -6,3 +6,11 @@ The Five Primary Goals of DevOps
 - Cutting the costs and hazards of software development
 - Increasing client satisfaction and loyalty
 - Achieving a market competitive advantage
+
+The benefits of Devops
+1. Improved collaboration between development and operational teams
+2. More frequent and faster software releases
+3. improved product quality and dependability
+4. Cost savings and resource optimization
+5. DevOps Best Practices
+6. (CI) Continuous Integration
