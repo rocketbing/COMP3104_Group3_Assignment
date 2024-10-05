@@ -1,4 +1,4 @@
-# COMP3104_Group1_Assignment
+# COMP3104_Group3_Assignment
 ## Group Members
 - **Leader:** Huanbing Zhang (101400851) - [GitHub](https://github.com/rocketbing)
 - **Member 2:** Cheng Shi (101362082) - [GitHub](https://github.com/Youyouccc)
