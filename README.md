@@ -3,7 +3,7 @@
 - **Leader:** Huanbing Zhang (101400851) - [GitHub](https://github.com/rocketbing)
 - **Member 2:** Cheng Shi (101362082) - [GitHub](https://github.com/Youyouccc)
 - **Member 3:** Ying Wu (101153072) - [GitHub](https://github.com/yingwu1203)
-- **Member 3:** Akeen Zhong (101462287) - [GitHub](https://github.com/SkyIris)
+- **Member 4:** Akeen Zhong (101462287) - [GitHub](https://github.com/SkyIris)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
