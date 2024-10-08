@@ -33,3 +33,7 @@ Students are typically assessed through:
 - **Assignments**: Practical exercises involving automation, configuration management, and CI/CD pipeline implementation.
 - **Projects**: Group or individual projects focusing on creating a fully automated DevOps pipeline.
 - **Quizzes and Exams**: Assessing theoretical understanding of DevOps concepts and tools.
+
+
+### **Pre-requisites**
+Some programming or software development experience is usually required. Students should have a foundational understanding of programming languages (e.g., Python, JavaScript), Linux commands, and networking concepts.
