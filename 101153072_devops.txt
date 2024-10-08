@@ -18,3 +18,11 @@ COMP 3104 is designed to introduce students to the concepts of DevOps, emphasizi
 - **Cloud Platforms**: The course may also touch on cloud-based DevOps, such as deploying applications on platforms like AWS, Azure, or Google Cloud.
 
 - **Monitoring and Logging**: Understanding the importance of monitoring systems and logging in production environments to detect and resolve issues early.
+
+
+### **Learning Outcomes**
+By the end of the course, students will:
+- Understand the key concepts of DevOps and how to apply them.
+- Be able to automate the development process using CI/CD tools.
+- Gain practical experience in containerization and deploying applications using Docker.
+- Be familiar with cloud platforms and their role in DevOps.
