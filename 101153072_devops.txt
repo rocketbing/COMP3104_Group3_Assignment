@@ -26,3 +26,10 @@ By the end of the course, students will:
 - Be able to automate the development process using CI/CD tools.
 - Gain practical experience in containerization and deploying applications using Docker.
 - Be familiar with cloud platforms and their role in DevOps.
+
+
+### **Assessment**
+Students are typically assessed through:
+- **Assignments**: Practical exercises involving automation, configuration management, and CI/CD pipeline implementation.
+- **Projects**: Group or individual projects focusing on creating a fully automated DevOps pipeline.
+- **Quizzes and Exams**: Assessing theoretical understanding of DevOps concepts and tools.
