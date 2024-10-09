@@ -2,33 +2,33 @@ Importance of learning DevOps in the
 software development cycle.
 
 Learning DevOps is important
-1. Collaboration and Communication
-DevOps emphasizes a culture of collaboration between development and operations teams. This leads to better communication, reduces silos, and fosters a sense of shared responsibility for the software lifecycle.
+    1. Collaboration and Communication
+    DevOps emphasizes a culture of collaboration between development and operations teams. This leads to better communication, reduces silos, and fosters a sense of shared responsibility for the software lifecycle.
 
-2. Faster Delivery
-By integrating development and operations, DevOps enables continuous integration and continuous deployment (CI/CD). This means that features can be developed, tested, and released more quickly, leading to faster time-to-market and more frequent updates.
+    2. Faster Delivery
+    By integrating development and operations, DevOps enables continuous integration and continuous deployment (CI/CD). This means that features can be developed, tested, and released more quickly, leading to faster time-to-market and more frequent updates.
 
-3. Improved Quality
-DevOps practices promote automated testing and monitoring, which help catch bugs earlier in the development process. This leads to higher-quality software and a better user experience.
+    3. Improved Quality
+    DevOps practices promote automated testing and monitoring, which help catch bugs earlier in the development process. This leads to higher-quality software and a better user experience.
 
-4. Enhanced Efficiency
-Automation of repetitive tasks—such as testing, deployment, and infrastructure management—reduces the workload on teams. This allows developers and operations staff to focus on more strategic work, improving overall productivity.
+    4. Enhanced Efficiency
+    Automation of repetitive tasks—such as testing, deployment, and infrastructure management—reduces the workload on teams. This allows developers and operations staff to focus on more strategic work, improving overall productivity.
 
-5. Scalability and Reliability
-DevOps practices, such as infrastructure as code (IaC), enable teams to manage and provision resources more effectively. This ensures that applications can scale seamlessly and maintain reliability, even under increased load.
+    5. Scalability and Reliability
+    DevOps practices, such as infrastructure as code (IaC), enable teams to manage and provision resources more effectively. This ensures that applications can scale seamlessly and maintain reliability, even under increased load.
 
-6. Continuous Improvement
-DevOps fosters a culture of continuous feedback and improvement. Teams can gather insights from users and performance metrics to iterate on their products, leading to better outcomes over time.
+    6. Continuous Improvement
+    DevOps fosters a culture of continuous feedback and improvement. Teams can gather insights from users and performance metrics to iterate on their products, leading to better outcomes over time.
 
-7. Adaptability to Change
-In today’s fast-paced tech environment, the ability to adapt to changing requirements and market conditions is vital. DevOps practices facilitate rapid changes in development processes, allowing teams to respond quickly to user feedback or shifts in business strategy.
+    7. Adaptability to Change
+    In today’s fast-paced tech environment, the ability to adapt to changing requirements and market conditions is vital. DevOps practices facilitate rapid changes in development processes, allowing teams to respond quickly to user feedback or shifts in business strategy.
 
-8. Cost Efficiency
-By improving processes and reducing inefficiencies, DevOps can lead to cost savings. Automated deployments and proactive monitoring reduce the risk of outages and downtime, ultimately lowering operational costs.
+    8. Cost Efficiency
+    By improving processes and reducing inefficiencies, DevOps can lead to cost savings. Automated deployments and proactive monitoring reduce the risk of outages and downtime, ultimately lowering operational costs.
 
-9. Better Resource Management
-With DevOps, teams can utilize cloud services and containerization effectively, optimizing resource allocation and minimizing waste.
+    9. Better Resource Management
+    With DevOps, teams can utilize cloud services and containerization effectively, optimizing resource allocation and minimizing waste.
 
-10. Career Opportunities
-With the growing demand for DevOps professionals, learning these practices can enhance your career prospects and open up a variety of job opportunities in the tech industry.
+    10. Career Opportunities
+    With the growing demand for DevOps professionals, learning these practices can enhance your career prospects and open up a variety of job opportunities in the tech industry.
 
