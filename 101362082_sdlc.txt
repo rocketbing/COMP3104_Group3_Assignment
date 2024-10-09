@@ -2,6 +2,7 @@ Importance of learning DevOps in the
 software development cycle.
 
 Learning DevOps is important
+
     1. Collaboration and Communication
     DevOps emphasizes a culture of collaboration between development and operations teams. This leads to better communication, reduces silos, and fosters a sense of shared responsibility for the software lifecycle.
 
