@@ -6,10 +6,11 @@ industry standard toolkit. Create solutions to complex business problems by adhe
 responsibilities of DevOps.
 Course Outcomes
 At the end of this course, the student will reliably demonstrate the ability to:
+
     1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions
-using industry standard tools and techniques such as continuous
-integration/delivery/deployment strategies, software development lifecycle, application
-containerization for deployment, etc.
+       using industry standard tools and techniques such as continuous
+       integration/delivery/deployment strategies, software development lifecycle, application
+       containerization for deployment, etc.
     2. Perform hand-on lab work by applying DevOps techniques.
     3. Ensure effective cross collaboration amongst IT staff by following the role and
        responsibilities of an engineer.
