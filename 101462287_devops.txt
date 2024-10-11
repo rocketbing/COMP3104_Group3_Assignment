@@ -6,3 +6,15 @@ In short, DevOps engineers ensure that the Software Development Life Cycle (SDLC
 
 There are plenty of opportunities in the market for DevOps. Personally, two of my friends are currently in positions as DevOps engineers.
 
+The DevOps course covers GitHub, Travis-Ci, Docker, Kubernetes and Sonarqube. 
+
+Github is a website where code can be stored remotely, allowing for seamless collaboration.
+
+Travis-CI is a tool which builds pipelines.
+
+Docker will help students familiarize themselves with packages.
+
+Kubernetes allows students to work with containerized applications.
+
+Finally, analyzes code to ensure code quality and assist in debugging.
+
