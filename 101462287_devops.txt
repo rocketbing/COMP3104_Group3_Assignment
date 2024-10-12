@@ -10,11 +10,10 @@ The DevOps course covers GitHub, Travis-Ci, Docker, Kubernetes and Sonarqube.
 
 Github is a website where code can be stored remotely, allowing for seamless collaboration.
 
-Travis-CI is a tool which builds pipelines.
+Travis-CI is a tool which builds pipelines. These are automated workflow processes that are reusable and easy to use.
 
 Docker will help students familiarize themselves with packages.
 
 Kubernetes allows students to work with containerized applications.
 
 Finally, analyzes code to ensure code quality and assist in debugging.
-
