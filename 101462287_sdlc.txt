@@ -1,3 +1,5 @@
+SDLC
+
 Importance of learning DevOps in the software development cycle.
 
 The software development life cycle (SDLC) is a methodology used to describe the phases of software development. The phases of SDLC include 

@@ -1,3 +1,5 @@
+COMP 3104 Dev Ops Course
+
 The COMP 3104 course in the T197 program teaches students about Development Operations, which combines software development and information technology operations. 
 
 This course builds on the agile software development philosophy. Common activities of DevOps engineers include handling requests from both internal and external clients, ensuring that the systems are working securely and properly. Another responsibility is the build pipelines, an event which helps a DevOps engineer determine the impact of a code change. 
