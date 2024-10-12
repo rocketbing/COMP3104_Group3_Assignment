@@ -26,3 +26,4 @@ In the DevOps cycle, a continuous cycle is often used to depict the development 
 	7. Monitor		(Observe performance and user feedback)
 
 The benefit of the DevOps software life cycle allows for a smoother process where errors are easier to detect, and the workflow is more smooth. The stages are less rigid and more fluid than the traditional SDLC.
+
