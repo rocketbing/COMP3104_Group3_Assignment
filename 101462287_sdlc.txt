@@ -1,0 +1,26 @@
+Importance of learning DevOps in the software development cycle.
+
+The software development life cycle (SDLC) is a methodology used to describe the phases of software development. The phases of SDLC include 
+
+	1. Planning 		(determining the scope, type and timeline of project)
+	2. Analysis 		(determining the requirements and feasibility of the project)
+	3. Design		(determining the plan of action for implementation)
+	4. Implementation	(coding, and creating the project)
+	5. Testing		(run rigorous tests to ensure project is performing properly)
+	6. Deployment		(Allow end users and clients to use the project)
+	7. Maintenance		(Perform regular updates and patches to ensure software is up to date)
+
+ 
+Nowadays, the SDLC is somewhat outdated, but establishes the groundwork for the DevOps life cycle. In this cycle, the phases are not dedicated to a single grander action. For example, in the SDLC, a large amount of coding begins only after design and before testing. 
+
+In the DevOps cycle, a continuous cycle is often used to depict the development process. These steps include
+
+	1. Plan			(Determine the requirements)
+	2. Create		(Code the project)
+	3. Verify		(Test the code)
+	4. Package		(Approve and prepare a version of a project for deployment)
+	5. Release		(Deploy a version of the project)
+	6. Configure		(Ensure required infrastructure is working)
+	7. Monitor		(Observe performance and user feedback)
+
+The benefit of the DevOps software life cycle allows for a smoother process where errors are easier to detect, and the workflow is more smooth. The stages are less rigid and more fluid than the traditional SDLC.
