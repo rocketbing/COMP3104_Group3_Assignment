@@ -1,6 +1,6 @@
-George Brown College
+George Brown College (GBC)
 
-George Brown College (GBC) is a Canadian post-secondary educational institution founded in 1967.
+George Brown College is a Canadian post-secondary educational institution founded in 1967.
 
 With 3 main campuses, GBC is currently offering over 170 programs in many different fields including art, science and technology. These campuses are the Casa Loma campus, the St. James campuis and the Waterfront campus.
 
@@ -8,4 +8,4 @@ The current president as of 2024 is Gervan Fearon.
 
 One of the features that makes George Brown College unique is distance learning, the ability to take courses online. With the events surrounding the COVID-19 pandemic, courses and certifications no longer need to take in place in person, and George Brown College has embraced this change. This is suitable for the students as many of the students in GBC are not attending post-secondary education for the first time, and as such, may have other obligations such as work or taking care of family. 
 
-One of the current programs that George Brown offers is T177/T197, Computer Programming and Analysis. This program teaches students the basics of coding and computer technology, as well as the knowledge needed for software development. A wide array of topics are covered, from web design to Javscript and databases.
+One of the current programs that George Brown offers is T177 / T197, Computer Programming and Analysis. This program teaches students the basics of coding and computer technology, as well as the knowledge needed for software development. A wide array of topics are covered, from web design to Javscript and databases.
